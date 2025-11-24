@@ -175,6 +175,6 @@ Income Statement	Profit/Loss
 Balance Sheet	Snapshot of financial position
 👥 Author
 
-Developed by: EXP MS7
-Client: Fintrix Technologies
-Version: 1.0# SmartLedger
+Developed by: Syed Mohammad Shariq
+
+
