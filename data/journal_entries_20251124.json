@@ -1,0 +1,18 @@
+{
+  "JE-20251124-001": {
+    "date": "2025-11-24",
+    "narration": "Sale of goods",
+    "debits": [
+      {
+        "account": "Cash",
+        "amount": 500.0
+      }
+    ],
+    "credits": [
+      {
+        "account": "Sales",
+        "amount": 500.0
+      }
+    ]
+  }
+}

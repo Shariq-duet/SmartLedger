@@ -1,0 +1,20 @@
+{
+  "Cash": [
+    {
+      "date": "2025-11-24",
+      "je_id": "JE-20251124-002",
+      "entry_type": "Debit",
+      "amount": 500.0,
+      "running_balance": 500.0
+    }
+  ],
+  "Sales": [
+    {
+      "date": "2025-11-24",
+      "je_id": "JE-20251124-002",
+      "entry_type": "Credit",
+      "amount": 500.0,
+      "running_balance": 500.0
+    }
+  ]
+}

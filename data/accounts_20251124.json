@@ -1,0 +1,14 @@
+{
+  "Shariq": {
+    "type": "Asset",
+    "balance": 10000.0
+  },
+  "Cash": {
+    "type": "Asset",
+    "balance": 500.0
+  },
+  "Sales": {
+    "type": "Revenue",
+    "balance": 0.0
+  }
+}
